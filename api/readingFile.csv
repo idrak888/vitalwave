@@ -1,0 +1,41 @@
+seq,facilityname,type,latitude,longitude,opening,closing,icu,ccu,vc,tc,capacity,contact
+1,Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281
+2,Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120
+3,Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802
+4,Uxbridge Hospital,Hospital,44.10246,-79.12779,0:00,23:59,no,no,no,no,c,905-852-9771
+5,Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200
+6,Burlington Walk-In Clinic,Clinic,43.36669,-79.82233,6:00,20:00,no,no,no,no,n,905-681-7755
+7,Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350
+8,St Joseph's Health Centre,"LTC, Pharmacy",43.55011262,-80.27220107,9:00,17:00,no,no,no,no,b,519-824-6000
+9,West Haldimand General Hospital,Hospital,42.95846,-80.04432,0:00,23:59,no,no,no,no,c,905-768-3311
+10,Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,905-521-2100
+11,McMaster Children's Hospital,"Pediatrics, Pharmacy",43.25936,-79.91742,0:00,23:59,yes,no,no,yes,a,905-521-2100
+12,West End Clinic,Clinic,43.260388,-79.898124,12:00,7:00,no,no,ni,no,n,905-521-2100
+13,Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737
+14,Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,905-378-4647
+15,London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,519-685-8500
+16,London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,a,519-685-8500
+17,Bluewater Health,"Hospital, Pharmacy",42.976802,-82.390299,0:00,23:59,yes,no,no,no,b,519-464-400
+18,St Mary's General Hospital,Adult Hospital,43.437825,-80.503555,0:00,23:59,no,yes,no,no,b,519-744-3311
+19,Grand River General Hospital,"Hospital, Pharmacy",43.4564,-80.5122,0:00,23:59,yes,no,no,no,b,519-749-4300
+20,Silvercreek Walk-In Clinic,"Clinic, Pharmacy",43.539186,-80.278,9:00,17:00,no,no,no,no,n,519-822-9363
+21,Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383
+22,Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,905-845-2571
+23,Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,416-747-3400
+24,The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,416-813-1500
+25,Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,416-480-6100
+26,Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577
+27,Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911
+28,Lakeridge Health Port Perry,Hospital,44.104888,-78.954839,0:00,23:59,no,no,no,no,c,905-985-7321
+29,Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400
+30,Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,613-548-3232
+31,Brockville General Hospital,"Hospital, Pharmacy",44.597125,-75.681811,0:00,23:59,no,no,no,no,b,613-345-5649
+32,Cornerstone Family Medical Center,Clinic,44.591492,-75.700621,8:30,17:00,no,no,no,no,n,613-498-0444
+33,Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,613-737-7600
+34,The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555
+35,Canada House,"Clinic, Pharmacy",45.828101,-77.097524,8:00,16:00,no,no,no,no,n,613-687-1010
+36,Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,807-684-6000
+37,Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100
+38,Collingwood After Hours Medical Clinic,Clinic,44.501081,-80.204766,9:00,21:00,no,no,no,no,n,705-445-9711
+39,Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511
+40,The Centre for Minor Surgery,"Clinic, Pharmacy",43.769334,-79.548617,8:00,16:00,no,no,no,no,c,416-663-9649

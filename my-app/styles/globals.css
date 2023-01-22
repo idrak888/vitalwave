@@ -1,0 +1,125 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: rgb(231, 110, 28);
+  color: white;
+  text-align: center;
+}
+
+.display-board {
+  width: 100%;
+  background-color: rgb(555, 200, 789);
+  padding: 5%;
+}
+
+.number {
+  color: rgb(25, 219, 129);
+  font-size: 75px;
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-top: 20px;
+}
+
+.main-wrapper {
+  width: 100%;
+  max-width: 800px;
+  padding: 100px 20px;
+  display: block;
+  margin: auto;
+  animation-name: slideDown;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes slideDown {
+  from {margin-top: -100px; opacity: 0;}
+  to {margin-top: 0; opacity: 1;}
+}
+
+h1 {
+  font-weight: bold;
+  color: rgb(45, 45, 45);
+}
+
+h3 {
+  color: rgb(90, 90, 90);
+}
+
+.inner {
+  padding: 50px;
+  background-color: rgb(245, 245, 245);
+  border-radius: 5px;
+  font-size: 18px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.inner p {
+  font-weight: bold;
+}
+
+input {
+  font-size: 18px;
+  padding: 6px 8px;
+  border: 0;
+  border-radius: 4px;
+  width: 100%;
+  max-width: 300px;
+  margin-top: 10px;
+}
+
+ul {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 6px 12px;
+  border: 1px solid rgb(17, 145, 17);
+  color: rgb(17, 145, 17);
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.btn-success {
+  background-color: rgb(17, 145, 17);
+}
+
+.text-success {
+  color: rgb(17, 145, 17);
+}
+
+.navbar {
+  border-bottom: 2px solid rgb(17, 145, 17);
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.col {
+  background-color: rgb(245, 245, 245);
+  margin: 5px;
+}

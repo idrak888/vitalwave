@@ -1,0 +1,347 @@
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39
+St Mary's General Hospital,Adult Hospital,43.437825,-80.503555,0:00,23:59,no,yes,no,no,b,519-744-3311,18
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+Bluewater Health,"Hospital, Pharmacy",42.976802,-82.390299,0:00,23:59,yes,no,no,no,b,17,0
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Grand River General Hospital,"Hospital, Pharmacy",43.4564,-80.5122,0:00,23:59,yes,no,no,no,b,19,0
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+McMaster Children's Hospital,"Pediatrics, Pharmacy",43.25936,-79.91742,0:00,23:59,yes,no,no,yes,a,11,0
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,0
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,Sunnybrook Health Sciences Centre,0
+"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,Hamilton General Hospital,0
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,Kingston Health Sciences Centre-General,0
+London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,519-685-8500,0
+Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,0
+"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,The Hospital for Sick Children,0
+"Pediatrics, Pharmacy",43.25936,-79.91742,0:00,23:59,yes,no,no,yes,a,11,McMaster Children's Hospital,0
+"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,London Health Science Centre-Western,0
+"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,Thunder Bay Regional Health Sciences Centre,0
+"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,London Health Science Centre-Victoria,0,0
+ Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,London Health Science Centre-Victoria,"Hospital,0,0
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,519-685-8500,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,0
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,Hamilton General Hospital,0
+"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,The Hospital for Sick Children,0
+"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,Children's Hospital of Eastern Ontario,0
+"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,Kingston Health Sciences Centre-General,0
+"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,London Health Science Centre-Western,0
+"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,Niagara Health System-St Catharines,0
+Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,Milton District Hospital
+Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,Scarborough General Hospital
+Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,Credit Valley Hospital
+Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,Royal Victoria Regional Health Centre
+Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,The Ottawa Hospital
+Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,Windsor Regional Hospital
+"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,Etobicoke General Hospital,0
+"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,Sunnybrook Health Sciences Centre,0
+ Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,Niagara Health System-St Catharines,"Hospital,0
+ Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,Etobicoke General Hospital,"Hospital,0
+ Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,Kingston Health Sciences Centre-General,"Hospital,0
+ Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,Children's Hospital of Eastern Ontario,"Pediatrics,0
+42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,Windsor Regional Hospital,Hospital
+43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,Credit Valley Hospital,Hospital
+ Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,London Health Science Centre-Western,"Hospital,0
+43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,Scarborough General Hospital,Hospital
+45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,The Ottawa Hospital,Hospital
+ Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,Sunnybrook Health Sciences Centre,"Hospital,0
+ Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,Hamilton General Hospital,"Hospital,0
+ Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,The Hospital for Sick Children,"Pediatrics,0
+Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39
+Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37,Health Sciences North
+Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,0
+"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,Thunder Bay Regional Health Sciences Centre,0
+"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,London Health Science Centre-Victoria,0,0
+Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29,Belleville General Hospital
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,0
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,0
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,519-685-8500,0
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,519-685-8500,0
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,0
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,0
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39,NaN,0
+ 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39,NaN,0
+"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,4.652629810350293,0,0
+Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0.9888686053316514,0,0
+ Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0.9888686053316514,0,0
+"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,1.2906831313336957,0,0
+ Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,1.2906831313336957,0,0
+ Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,4.652629810350293,0,0
+ Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,3.7342732707270097,0,0
+"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,3.7342732707270097,0,0
+"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,1.8260639055853838,0,0
+ Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,1.8260639055853838,0,0
+"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,London Health Science Centre-Victoria,0,0
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7,Guelph General Hospital
+"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,1.6617428578587452,0,0
+"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,1.1435505126620955,0,0
+Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+ Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,1.1435505126620955,0,0
+44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,1.1463120255842063,0,0
+"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,1.18287680484696,0,0
+Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+ Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,1.18287680484696,0,0
+ Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,1.1463120255842063,0,0
+Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+ Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,1.6617428578587452,0,0
+"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,Thunder Bay Regional Health Sciences Centre,0
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+ 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,NaN,0
+Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7,Guelph General Hospital
+Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29,Belleville General Hospital
+Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1,Stevenson Memorial Hospital
+Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37,Health Sciences North
+43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13,Joseph Brant Hospital
+43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,NaN,0
+Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+ 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,NaN,0
+Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13,Joseph Brant Hospital
+Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7,Guelph General Hospital
+Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29,Belleville General Hospital
+Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37,Health Sciences North
+Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1,Stevenson Memorial Hospital
+43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,NaN,0
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Stevenson Memorial Hospital,Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1
+Royal Victoria Regional Health Centre,Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3
+Credit Valley Hospital,Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Joseph Brant Hospital,Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Brampton Civic Hospital,Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2
+Guelph General Hospital,Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7
+Milton District Hospital,Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21
+Cambridge Cardiac Care Centre,Specialized Care,43.379819,-80.319675,9:00,17:00,no,yes,yes,no,c,519-624-3511,39
+St Mary's General Hospital,Adult Hospital,43.437825,-80.503555,0:00,23:59,no,yes,no,no,b,519-744-3311,18
+Hospital, 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+ 43.747292,-79.744431,0:00,23:59,yes,yes,yes,no,b,905-494-2120,2,NaN,0
+Hospital,43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+Hospital,43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7,NaN,0
+Bluewater Health,"Hospital, Pharmacy",42.976802,-82.390299,0:00,23:59,yes,no,no,no,b,17,0
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Grand River General Hospital,"Hospital, Pharmacy",43.4564,-80.5122,0:00,23:59,yes,no,no,no,b,19,0
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+Hospital, 44.15544,-79.87493,0:00,23:59,yes,no,no,no,c,705-435-6281,1,Stevenson Memorial Hospital
+Hospital,43.316912,-79.802208,0:00,23:59,yes,no,no,no,b,905-632-3737,13,Joseph Brant Hospital
+Hospital,43.497148,-79.868498,0:00,23:59,yes,yes,no,no,b,905-878-2383,21,Milton District Hospital
+Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29,Belleville General Hospital
+Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37,Health Sciences North
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+McMaster Children's Hospital,"Pediatrics, Pharmacy",43.25936,-79.91742,0:00,23:59,yes,no,no,yes,a,11,0
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+Oakville Trafalgar,"Hospital, Pharmacy",43.450405,-79.76475,0:00,23:59,yes,yes,no,no,b,22,0
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Hospital,44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+44.4153,-79.6625,0:00,23:59,yes,yes,yes,no,b,705-728-9802,3,NaN,0
+Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27,NaN,0
+Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34,NaN,0
+Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26,NaN,0
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+43.557419,-79.703422,0:00,23:59,yes,yes,yes,no,b,905-813-2200,5,NaN,0
+43.55604,-80.25261,0:00,23:59,yes,no,yes,no,b,519-822-5350,7,NaN,0
+Scarborough General Hospital,Hospital,43.755833,-79.246944,0:00,23:59,yes,yes,yes,yes,b,416-438-2911,27
+Health Sciences North,Hospital,48.425014,-89.271273,0:00,23:59,yes,no,no,yes,a,705-523-7100,37
+Children's Hospital of Eastern Ontario,"Pediatrics, Pharmacy",45.400767,-75.652152,0:00,23:59,yes,yes,yes,no,a,33,0
+Etobicoke General Hospital,"Hospital, Pharmacy",43.729387,-79.598171,0:00,23:59,yes,yes,yes,no,b,23,0
+Hamilton General Hospital,"Hospital, Pharmacy",43.261944,-79.854722,0:00,23:59,yes,yes,yes,yes,a,10,0
+Kingston Health Sciences Centre-General,"Hospital, Pharmacy",44.224283,-76.492881,0:00,23:59,yes,yes,yes,yes,a,30,0
+London Health Science Centre-Victoria,"Hospital, Pediatrics, Pharmacy",42.9592,-81.2256,0:00,23:59,yes,yes,yes,yes,16,519-685-8500,0
+London Health Science Centre-Western,"Hospital, Pharmacy",43.0125,-81.275,0:00,23:59,yes,yes,yes,yes,a,15,0
+Niagara Health System-St Catharines,"Hospital, Pharmacy",43.163142,-79.230931,0:00,23:59,yes,yes,yes,no,b,14,0
+Sunnybrook Health Sciences Centre,"Hospital, Pharmacy",43.721696,-79.376026,0:00,23:59,yes,yes,yes,yes,a,25,0
+The Hospital for Sick Children,"Pediatrics, Pharmacy",43.657352,-79.38754,0:00,23:59,yes,yes,yes,yes,a,24,0
+Thunder Bay Regional Health Sciences Centre,"Hospital, Pharmacy",48.425014,-89.271273,0:00,23:59,no,yes,yes,yes,a,36,0
+Windsor Regional Hospital,Hospital,42.307255,-83.030463,0:00,23:59,yes,yes,yes,yes,b,519-254-5577,26
+The Ottawa Hospital,Hospital,45.392674,-75.721418,0:00,23:59,yes,yes,yes,yes,a,613-798-5555,34
+Belleville General Hospital,Hospital,44.163279,-77.364711,0:00,23:59,yes,no,no,yes,b,613-969-7400,29
