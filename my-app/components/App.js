@@ -103,7 +103,7 @@ class App extends Component {
                     <span className='text-danger'>{this.state.error}</span>
                     <div style={{display: "flex", flexDirection: "row", justifyContent: "center", alignItems: "center"}}>
                       <Autocomplete
-                        apiKey={"AIzaSyCRnBbhEcVvYOk_eX10BrP2D6ykDAL4bKQ"}
+                        apiKey={""}
                         onPlaceSelected={(place) => {
                           this.setState({location: place})
                         }}

@@ -22,7 +22,7 @@ const markers = [
 function Map(props) {
   const { isLoaded } = useJsApiLoader({
     id: 'VitalWave',
-    googleMapsApiKey: "AIzaSyCRnBbhEcVvYOk_eX10BrP2D6ykDAL4bKQ"
+    googleMapsApiKey: ""
   })
 
   const [map, setMap] = React.useState(null)
