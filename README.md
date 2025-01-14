@@ -117,9 +117,6 @@ For any inquiries or feedback, please contact:
 - [Rayyan Ahmed](mailto:rayyanahmed021@hotmail.com)
 
 ## Administrative Information
-
-### Team Name: VitalWave
-
 ### Project Title: VitalWave
 
 ### Team Members:
