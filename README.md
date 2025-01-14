@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/05d2dec8-1306-475b-90de-0728f6283fb4)
 
 # VitalWave
 
